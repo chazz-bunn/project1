@@ -2,8 +2,6 @@ from service.product_service import ProductService
 from service.user_service import UserService
 from service.order_service import OrderService
 
-from entity.user import User
-
 from connector import cnx
 from connector import cursor
 
